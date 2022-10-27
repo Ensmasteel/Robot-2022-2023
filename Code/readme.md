@@ -1,0 +1,1 @@
+Here will reside the code base for any computers onboard as well as for the image recognition

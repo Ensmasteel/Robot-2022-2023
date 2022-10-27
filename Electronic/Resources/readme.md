@@ -1,0 +1,1 @@
+This is here that resources are placed

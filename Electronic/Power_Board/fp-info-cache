@@ -1,4 +1,4 @@
-20610142829319510
+20615153386761348
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -80863,6 +80863,13 @@ Logo WEEE
 0
 0
 0
+TDK converter
+CONV_I6A24014A033V-001-R
+
+
+0
+7
+7
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -84951,6 +84958,20 @@ test point THT pad
 0
 1
 1
+Traco
+CONV_TEN_30-2411
+
+
+0
+6
+6
+Traco
+CONV_TEN_50-2413
+
+
+0
+6
+6
 Transformer_SMD
 Pulse_P0926NL
 SMT Gate Drive Transformer, 1:1:1, 8.0x6.3x5.3mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)
